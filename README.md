@@ -24,5 +24,13 @@ A Spring Boot application designed to manage student tuition payments and send r
 - Thymeleaf templates for UI
 
 ## How to Run
-```bash
-mvn spring-boot:run
+
+Open the project in VS Code or Spring Tool Suite
+
+Configure MySQL credentials in application.properties
+
+Run TuitionReminderApplication.java
+
+Access the application at:
+
+http://localhost:8083
